@@ -1,0 +1,12 @@
+.vscode/
+.DS_Store/
+*.DS_Store
+Test/
+simdiskfilled.bin
+simdiskempty.bin
+*.mp4
+obj/
+ssdfs
+simdiskfilled.zip
+*.png
+*.wav
